@@ -2,12 +2,22 @@
   [
     {
       "tag":"namaste",
-      "input":["namaste"],
+      "input":["namaste?"],
       "responses":[
           "namaste!",
           "aap kaise hain?"
         ]
     },
+        {
+      "tag":"howareyou",
+      "input":["aap kaise hain?"],
+      "responses":[
+          "main theek hoon"
+        ]
+    },
+    
+
+    
     {
       "tag":"whoareyou",
     "input":["who are you ?","what are you ?","what is your name ?","are you a chatbot ?","what can I call you ?","your name ?","are you a bot ?","how do I address you ?","How do I call you"],
