@@ -1,13 +1,6 @@
 {"intents":
   [
     {
-      "tag":"greeting2",
-      "input":["hell","hi there","nice to meet you","hi, is this is the pirate's organization","any pirates here ?","hi","hey there","hey","hi there","hi, nice to meet you","hello there","anyone there ?","hello pirates","knock knock"],
-      "responses":[
-        "the place exists"
-        ]
-    },
-    {
       "tag":"goodbye",
       "input":["Thank you","Thanks","Thanks for the info","bye","byr bro","adios","okay bye","goodbye","see you later","i will catch you later","i will catch up later","okay i will see you later","I will talk to you later","will text you later","bye bro, I'll talk to you later","Bye brother"],
       "responses":[
