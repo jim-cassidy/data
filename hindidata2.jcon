@@ -1,0 +1,21 @@
+{"intents":
+  [
+    {
+      "tag":"namaste",
+      "input":["namaste?"],
+      "responses":[
+          "namaste!",
+          "aap kaise hain?"
+        ]
+    },
+        {
+      "tag":"howareyou",
+      "input":["aap kaise hain?"],
+      "responses":[
+          "main theek hoon"
+        ]
+    },
+    
+
+  ]
+}
