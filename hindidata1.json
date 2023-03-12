@@ -9,28 +9,6 @@
         ]
     },
     {
-      "tag":"naam",
-      "input":["aapaka kya naam hai"],
-      "responses":[
-          "mera naam comp hai"
-        ]
-    },
-    {
-      "tag":"howdoisay1",
-      "input":["how do I say hello"],
-      "responses":[
-        "namaste"
-        ]
-    },
-      {
-      "tag":"howdoisay2",
-      "input":["how do I say that I have to go"],
-      "responses":[
-        "muje jaana hai"
-        ]
-    },
-    
-    {
       "tag":"whoareyou",
     "input":["who are you ?","what are you ?","what is your name ?","are you a chatbot ?","what can I call you ?","your name ?","are you a bot ?","how do I address you ?","How do I call you"],
       "responses":[
