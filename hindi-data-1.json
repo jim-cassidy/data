@@ -1,6 +1,19 @@
 {"intents":
   [
     {
+      "tag":"greeting",
+      "input":["hello","hi there","nice to meet you","hi, is this is the pirate's organization","any pirates here ?","hi","hey there","hey","hi there","hi, nice to meet you","hello there","anyone there ?","hello pirates","knock knock"],
+      "responses":[
+          "Hi. Welcome to the world's largest pirate organization - The Strawhats",
+          "Hey yo, do you need help ?",
+          "welcome aboard, how may I help you ?",
+          "ahoy!!",
+          "Hi random person, what do'ya want ?",
+          "Hello my friend, How can I help you ?",
+          "Ha , Glad you showed up. How are you ?"
+        ]
+    },
+    {
       "tag":"goodbye",
       "input":["Thank you","Thanks","Thanks for the info","bye","byr bro","adios","okay bye","goodbye","see you later","i will catch you later","i will catch up later","okay i will see you later","I will talk to you later","will text you later","bye bro, I'll talk to you later","Bye brother"],
       "responses":[
