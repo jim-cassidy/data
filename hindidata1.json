@@ -2,7 +2,7 @@
   [
     {
       "tag":"namaste",
-      "input":["namaste"]
+      "input":["namaste"],
       "responses":[
           "namaste!",
           "aap kaise hain?"
@@ -10,14 +10,14 @@
     },
     {
       "tag":"naam",
-      "input":["aapaka kya naam hai"]
+      "input":["aapaka kya naam hai"],
       "responses":[
-          "mera naam comp hai",
+          "mera naam comp hai"
         ]
     },
     {
       "tag":"howdoisay1",
-      "input":["how do I say hello"]
+      "input":["how do I say hello"],
       "responses":[
         "namaste"
         ]
