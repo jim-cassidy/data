@@ -1,49 +1,35 @@
 {"intents":
   [
     {
-      "tag":"greeting",
-      "input":["hello","hi there","nice to meet you","hi, is this is the pirate's organization","any pirates here ?","hi","hey there","hey","hi there","hi, nice to meet you","hello there","anyone there ?","hello pirates","knock knock"],
+      "tag":"namaste",
+      "input":["namaste"],
       "responses":[
-          "Hi. Welcome to the world's largest pirate organization - The Strawhats",
-          "Hey yo, do you need help ?",
-          "welcome aboard, how may I help you ?",
-          "ahoy!!",
-          "Hi random person, what do'ya want ?",
-          "Hello my friend, How can I help you ?",
-          "Ha , Glad you showed up. How are you ?"
+          "namaste!",
+          "aap kaise hain?"
         ]
     },
     {
-      "tag":"goodbye",
-      "input":["Thank you","Thanks","Thanks for the info","bye","byr bro","adios","okay bye","goodbye","see you later","i will catch you later","i will catch up later","okay i will see you later","I will talk to you later","will text you later","bye bro, I'll talk to you later","Bye brother"],
+      "tag":"naam",
+      "input":["aapaka kya naam hai"],
       "responses":[
-          "Okay, Bye",
-          "Have a nice day",
-          "Adios",
-          "Goodbye",
-          "see you later",
-          "nice conversation. bye",
-          "okay. Have a nice day",
-          "Take care",
-          "we'll meet soon",
-          "Yeah Sure, Will talk to you later",
-          "Okay , Take care"
+          "mera naam comp hai",
         ]
     },
     {
-      "tag":"howami",
-      "input":["how are you ?","I am fine , how are you ?","are you fine ?","how are things going on ?","everything going on okay ?","how's everything there ?","how's everything going on ?","is everything okay ?"],
+      "tag":"howdoisay1",
+      "input":["how do I say hello"],
       "responses":[
-          "Yeah , am fine",
-          "Everything's going on well",
-          "Doing good.Thanks you are my best friend",
-          "Things are Great",
-          "Yeah Fine, nothing much going on in my life",
-          "I am Great , wanna join the pirate's organization ?",
-          "Everything's great.",
-          "I am doing good. Life is boring. need to go on an adventure"
+        "namaste
         ]
     },
+      {
+      "tag":"howdoisay2",
+      "input":["how do I say that I have to go"],
+      "responses":[
+        "muje jaana hai"
+        ]
+    },
+    
     {
       "tag":"whoareyou",
     "input":["who are you ?","what are you ?","what is your name ?","are you a chatbot ?","what can I call you ?","your name ?","are you a bot ?","how do I address you ?","How do I call you"],
