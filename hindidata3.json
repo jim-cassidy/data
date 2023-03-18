@@ -19,8 +19,18 @@
       "tag":"intro",
       "input":["what is your name?"],
       "responses":[
-          "You can say: aapaka kya naam hai"
+          "You can say: aapaka kya naam hai?"
         ]
     }  
+            {
+      "tag":"intro",
+      "input":["aapaka kya naam hai?"],
+      "responses":[
+          "mera naam Ted hai.  Aur tumhaara?"
+        ]
+    }  
+    
+    
+    
   ]
 }
