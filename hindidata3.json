@@ -19,7 +19,7 @@
       "tag":"intro",
       "input":["what is your name?"],
       "responses":[
-          "You can say: aapaka kya naam hai? "
+          "You can say: aapaka kya naam hai"
         ]
     }  
   ]
