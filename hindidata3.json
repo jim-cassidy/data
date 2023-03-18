@@ -1,7 +1,7 @@
 {"intents":
   [
     {
-      "tag":"namaste",
+      "tag":"intro",
       "input":["namaste?"],
       "responses":[
           "namaste!",
@@ -9,11 +9,20 @@
         ]
     },
         {
-      "tag":"howareyou",
+      "tag":"intro",
       "input":["aap kaise hain?"],
       "responses":[
           "main theek hoon"
         ]
-    }
+    },
+        {
+      "tag":"intro",
+      "input":["what is your name?"],
+      "responses":[
+          "You can say: aapaka kya naam hai? ",
+        ]
+    },    
+    
+    
   ]
 }
