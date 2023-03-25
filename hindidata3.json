@@ -21,14 +21,30 @@
       "responses":[
           "You can say: aapaka kya naam hai?"
         ]
-    }  
+    } , 
             {
       "tag":"intro",
       "input":["aapaka kya naam hai?"],
       "responses":[
           "mera naam Ted hai.  Aur tumhaara?"
         ]
-    }  
+    },
+                {
+      "tag":"intro",
+      "input":["aap kahaan rahate hain?"],
+      "responses":[
+          "Me kampyootar kee duniya hu"
+        ]
+    } ,
+
+
+            {
+      "tag":"intro",
+      "input":["aaoki kya hai
+      "responses":[
+          "me ek saal ka hoon. Aur tumhaara?"
+        ]
+    } 
     
     
     
