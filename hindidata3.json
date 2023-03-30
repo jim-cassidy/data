@@ -35,18 +35,13 @@
       "responses":[
           "Me kampyootar kee duniya hu"
         ]
-    } ,
-
-
+    },
             {
       "tag":"intro",
       "input":["aaoki kya hai
       "responses":[
           "me ek saal ka hoon. Aur tumhaara?"
         ]
-    } 
-    
-    
-    
+    }, 
   ]
 }
