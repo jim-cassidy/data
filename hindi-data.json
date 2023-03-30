@@ -1,0 +1,36 @@
+[
+ {
+   "intents": {
+      "tag": "greeting",
+      "input": [
+         "namaste",
+         "kya ho rahaa hai"
+      ],
+      "intput": [
+         null,
+         null,
+         "suno"
+      ],
+      "responses": [
+         "namaste! aapase milakar achchha laga."
+      ]
+   }
+},
+ {
+   "intents": {
+      "tag": "greeting2",
+      "input": [
+         "aap kaise hain ",
+         ""
+      ],
+      "intput": [
+         null,
+         null,
+         ""
+      ],
+      "responses": [
+         "achchha. Aur aap? "
+      ]
+   }
+}
+]
