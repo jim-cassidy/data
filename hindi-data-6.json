@@ -1,0 +1,202 @@
+[
+  {
+    "intents/tag": "greeting",
+    "intents/input/0": "namaste",
+    "intents/input/1": "kya ho rahaa hai",
+    "intents/intput/2": "suno",
+    "intents/responses/0": "namaste! aapase milakar achchha laga.",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "greeting2",
+    "intents/input/0": "aap kaise hain",
+    "intents/input/1": "",
+    "intents/intput/2": "",
+    "intents/responses/0": "achchha. Aur aap?",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "whatyoudoing",
+    "intents/input/0": "aap kya kar rahe hain",
+    "intents/input/1": "",
+    "intents/intput/2": "",
+    "intents/responses/0": "main maje kar raha hoon!",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "translation1",
+    "intents/input/0": "how do you say hello?",
+    "intents/input/1": "hello",
+    "intents/intput/2": "",
+    "intents/responses/0": "namaste",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "translation2",
+    "intents/input/0": "how do you say goodbye?",
+    "intents/input/1": "goodbye",
+    "intents/intput/2": "",
+    "intents/responses/0": "alavida",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "translation3",
+    "intents/input/0": "how do you say I like you?",
+    "intents/input/1": "I like you",
+    "intents/intput/2": "how do you say I like you?",
+    "intents/responses/0": "mujhe aap pasand ho",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "Iam",
+    "intents/input/0": "main khush hoon",
+    "intents/input/1": "main khush hoon",
+    "intents/intput/2": "main khush hoon",
+    "intents/responses/0": "yah bhee khoob rahee. main bhee hoon!",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "whereyoufrom",
+    "intents/input/0": "aap kahaan se hain",
+    "intents/input/1": "",
+    "intents/intput/2": "",
+    "intents/responses/0": "aap nahin samajhoge. Aur aap?",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "you are",
+    "intents/input/0": "aap majaakiya ho",
+    "intents/input/1": "",
+    "intents/intput/2": "",
+    "intents/responses/0": "yah sach hai? mujhe pata hai ki main hoon lekin aap kya hain!",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "america",
+    "intents/input/0": "amerika kaisa hai?",
+    "intents/input/1": "",
+    "intents/intput/2": "",
+    "intents/responses/0": "amerika mahaan logon vaala desh hai.",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "america1",
+    "intents/input/0": "amerika kahaan hai?",
+    "intents/input/1": "",
+    "intents/intput/2": "",
+    "intents/responses/0": "ek naksha dekho!",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "america2",
+    "intents/input/0": "amerika kaise hain?",
+    "intents/input/1": "",
+    "intents/intput/2": "",
+    "intents/responses/0": "amerikee shaanadaar hain!",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "america3",
+    "intents/input/0": "kya amerika yuddh kee sthiti mein hai?",
+    "intents/input/1": "",
+    "intents/intput/2": "",
+    "intents/responses/0": "kya amerika yuddh kee sthiti mein hai?",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "translation4",
+    "intents/input/0": "how do you say war?",
+    "intents/input/1": "war",
+    "intents/intput/2": "war",
+    "intents/responses/0": "yuddh",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "translation5",
+    "intents/input/0": "how do you say hello?",
+    "intents/input/1": "hello",
+    "intents/intput/2": "",
+    "intents/responses/0": "namaste",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "translation6",
+    "intents/input/0": "how do you say thank you?",
+    "intents/input/1": "thank you",
+    "intents/intput/2": "",
+    "intents/responses/0": "dhanyavaad",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "feelings",
+    "intents/input/0": "mujhe aap pasand ho",
+    "intents/input/1": "aap pasand",
+    "intents/intput/2": "pasand",
+    "intents/responses/0": "kitana achchha!",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "feelings2",
+    "intents/input/0": "mujhe aapase nafarat hai",
+    "intents/input/1": "nafarat",
+    "intents/intput/2": "",
+    "intents/responses/0": "mujhe aisa nahin lagata",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "fromhindi",
+    "intents/input/0": "shaandaar",
+    "intents/input/1": "",
+    "intents/intput/2": "",
+    "intents/responses/0": "shaandaar means fantastic",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "fromhindi2",
+    "intents/input/0": "dhanyavaad",
+    "intents/input/1": "",
+    "intents/intput/2": "",
+    "intents/responses/0": "dhanyavaad means thank you",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "fromhindi3",
+    "intents/input/0": "alavida",
+    "intents/input/1": "",
+    "intents/intput/2": "",
+    "intents/responses/0": "alavida means goodbye",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "fromhindi4",
+    "intents/input/0": "yuddh",
+    "intents/input/1": "war",
+    "intents/intput/2": "",
+    "intents/responses/0": "yuddh means war in hindi",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "translation7",
+    "intents/input/0": "how do you say motorcycle",
+    "intents/input/1": "motorcycle",
+    "intents/intput/2": "",
+    "intents/responses/0": "in hindi, you would say motarasaikil",
+    "intents/responses/1": ""
+  },
+  {
+    "intents/tag": "motorcycles",
+    "intents/input/0": "kya aapako motarasaikil pasand hai",
+    "intents/input/1": "",
+    "intents/intput/2": "",
+    "intents/responses/0": "motarasaikil majedaar hain",
+    "intents/responses/1": "main bahut savaaree karata hoon"
+  },
+  {
+    "intents/tag": "translation8",
+    "intents/input/0": "how do you ask if they like something",
+    "intents/input/1": "",
+    "intents/intput/2": "",
+    "intents/responses/0": "kya aapako __ pasand hai?",
+    "intents/responses/1": ""
+  }
+]
