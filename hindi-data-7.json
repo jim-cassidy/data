@@ -1,0 +1,806 @@
+[
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "greeting"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "namaste"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": "kya ho rahaa hai"
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": "suno"
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "namaste! aapase milakar achchha laga."
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "greeting2"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "aap kaise hain"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "achchha. Aur aap?"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "whatyoudoing"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "aap kya kar rahe hain"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "main maje kar raha hoon!"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "translation1"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "how do you say hello?"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": "hello"
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "namaste"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "translation2"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "how do you say goodbye?"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": "goodbye"
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "alavida"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "translation3"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "how do you say I like you?"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": "I like you"
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": "how do you say I like you?"
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "mujhe aap pasand ho"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "Iam"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "main khush hoon"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": "main khush hoon"
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": "main khush hoon"
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "yah bhee khoob rahee. main bhee hoon!"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "whereyoufrom"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "aap kahaan se hain"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "aap nahin samajhoge. Aur aap?"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "you are"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "aap majaakiya ho"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "yah sach hai? mujhe pata hai ki main hoon lekin aap kya hain!"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "america"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "amerika kaisa hai?"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "amerika mahaan logon vaala desh hai."
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "america1"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "amerika kahaan hai?"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "ek naksha dekho!"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "america2"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "amerika kaise hain?"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "amerikee shaanadaar hain!"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "america3"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "kya amerika yuddh kee sthiti mein hai?"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "kya amerika yuddh kee sthiti mein hai?"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "translation4"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "how do you say war?"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": "war"
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": "war"
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "yuddh"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "translation5"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "how do you say hello?"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": "hello"
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "namaste"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "translation6"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "how do you say thank you?"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": "thank you"
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "dhanyavaad"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "feelings"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "mujhe aap pasand ho"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": "aap pasand"
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": "pasand"
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "kitana achchha!"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "feelings2"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "mujhe aapase nafarat hai"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": "nafarat"
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "mujhe aisa nahin lagata"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "fromhindi"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "shaandaar"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "shaandaar means fantastic"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "fromhindi2"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "dhanyavaad"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "dhanyavaad means thank you"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "fromhindi3"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "alavida"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "alavida means goodbye"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "fromhindi4"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "yuddh"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": "war"
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "yuddh means war in hindi"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "translation7"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "how do you say motorcycle"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": "motorcycle"
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "in hindi, you would say motarasaikil"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "motorcycles"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "kya aapako motarasaikil pasand hai"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "motarasaikil majedaar hain"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": "main bahut savaaree karata hoon"
+ },
+ {
+   "[": "",
+   "FIELD2": "},"
+ },
+ {
+   "[": "",
+   "FIELD2": "{"
+ },
+ {
+   "[": "intents/tag",
+   "FIELD2": "translation8"
+ },
+ {
+   "[": "intents/input/0",
+   "FIELD2": "how do you ask if they like something"
+ },
+ {
+   "[": "intents/input/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/intput/2",
+   "FIELD2": ""
+ },
+ {
+   "[": "intents/responses/0",
+   "FIELD2": "kya aapako __ pasand hai?"
+ },
+ {
+   "[": "intents/responses/1",
+   "FIELD2": ""
+ },
+ {
+   "[": "",
+   "FIELD2": "}"
+ },
+ {
+   "[": "]",
+   "FIELD2": ""
+ }
+]
